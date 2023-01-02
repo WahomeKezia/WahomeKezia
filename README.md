@@ -64,6 +64,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :writing_hand: My Website Portfolio :
+### :Desktop: My Website Portfolio :
 
 Visit: kezia.com 
+
+---
+
+### :writing_hand: Blog posts :
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
