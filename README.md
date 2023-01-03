@@ -60,7 +60,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WahomeKezia&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  -->
- [![GitHub Streak](https://streak-stats.demolab.com/?user=WahomeKezia&theme=dark)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WahomeKezia&theme=dark)](https://git.io/streak-stats)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WahomeKezia&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -68,7 +68,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :desktop_computer: My Website Portfolio :
 
-Visit: kezia.com 
+Visit: kezia.web
 
 ---
 
