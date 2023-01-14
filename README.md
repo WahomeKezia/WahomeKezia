@@ -27,7 +27,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Technical Content Writing and tech Bloggig 
 
-- :zap: In my free time, I like to browse through Tech open source platforms and contribute 
+- :zap: In my free time, I track of the latest technology updates #Blockchain #AI #ML and other open source platforms and contribute 
 
 - :mailbox:How to reach me:  <a href="https://www.linkedin.com/in/kezia-wahome-531669243/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
