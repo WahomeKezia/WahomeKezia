@@ -27,8 +27,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Technical Content Writing and tech Blogging 
 
-- :✈: Aspiring ML engineer/Robotics/Reaserch Engineer 
-
 - :zap: In my free time, I keep up with the latest technology updates #Blockchain #AI #ML and other open source platforms and contribute 
 
 - :mailbox:How to reach me:  <a href="https://www.linkedin.com/in/kezia-wahome-531669243/">
