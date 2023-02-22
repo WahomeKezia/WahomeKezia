@@ -69,7 +69,7 @@ Visit: kezia.web
 
 ---
 
-### :writing_hand: Blog posts :
+### :writing_hand: Blog posts and Podcast :
 
 <!-- BLOG-POST-LIST:START -->
 Let's talk Blockchain 
