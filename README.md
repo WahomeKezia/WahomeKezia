@@ -72,6 +72,8 @@ Visit: kezia.web
 ### :writing_hand: Blog posts :
 
 <!-- BLOG-POST-LIST:START -->
+Let's talk Blockchain 
+https://dktechtalks.wixsite.com/techblockchain 
 <!-- BLOG-POST-LIST:END -->
 
 
