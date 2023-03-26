@@ -63,18 +63,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- ![](https://komarev.com/ghpvc/?username=WahomeKezia) -->
 ---
-<!-- 
+
 ### :desktop_computer: My Website Portfolio :
 
 Visit: kezia.web
 
 ---
-
-### :writing_hand: Blog posts and Podcast :
-
-<!-- BLOG-POST-LIST:START -->
-Let's talk Blockchain 
-https://dktechtalks.wixsite.com/techblockchain 
-<!-- BLOG-POST-LIST:END -->
- -->
 
