@@ -21,7 +21,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - Currently Interning at 👁️🐝Ⓜ️  Research Africa Lab
 
-- :seedling: Exploring Open Source platforms and Commninity Projects 
+- :seedling: Exploring Open Source platforms and Community Projects 
 
 - :zap: In my free time, I keep up with the latest technology updates #Blockchain #AI #ML 
 
