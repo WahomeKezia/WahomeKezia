@@ -21,9 +21,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - Currently Interning at 👁️🐝Ⓜ️  Research Africa Lab
 
-- :seedling: Exploring Technical Content Writing and tech Blogging 
+- :seedling: Exploring Open Source platforms and Commninity Projects 
 
-- :zap: In my free time, I keep up with the latest technology updates #Blockchain #AI #ML and other open source platforms and contribute 
+- :zap: In my free time, I keep up with the latest technology updates #Blockchain #AI #ML 
 
 - :mailbox:How to reach me:  <a href="https://www.linkedin.com/in/kezia-wahome-531669243/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
