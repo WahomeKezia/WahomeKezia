@@ -17,6 +17,8 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
+- Currently at IBM Research Africa 
+
 - :telescope:Currently a Computer Science Student
 
 - :seedling: Exploring Technical Content Writing and tech Blogging 
@@ -38,11 +40,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WahomeKezia&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![](https://komarev.com/ghpvc/?username=WahomeKezia) -->
----
+<!-- ---
 
 ### :desktop_computer: My Website Portfolio :
 
 Visit: kezia.web
 
----
+--- -->
 
