@@ -16,10 +16,9 @@
 ### :woman_technologist: **About Me** :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+-:telescope:A Computer Science Student
 
 - Currently Interning at IBM Research Africa Lab
-
-- :telescope:Currently a Computer Science Student
 
 - :seedling: Exploring Technical Content Writing and tech Blogging 
 
