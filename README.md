@@ -1,6 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<img align="right" src="https://github.com/kmt901/kmt901/blob/master/kaya_illustration.PNG" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" width=350px height=465px/>
+
 <div id="badges" align ="center">
   <a href="https://www.linkedin.com/in/kezia-wahome-531669243/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
