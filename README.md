@@ -19,7 +19,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope:A Computer Science Student
 
-- Currently exploring areas of Health Science and Climate with technology 🤖 🧬 🕵️
+- Currently exploring areas of Health Sciences and Climate with technology 🤖 🧬 🕵️
 
 - :seedling: Exploring Open Source platforms and Community Projects 
 
