@@ -19,7 +19,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope:A Computer Science Student
 
-- Currently Interning at 👁️🐝Ⓜ️  Research Africa Lab
+- Currently exploring areas of health and climate with technology [image](https://github.com/WahomeKezia/WahomeKezia/assets/90443938/5f9b7779-995a-40c1-8b0a-f770131b9a5c)
 
 - :seedling: Exploring Open Source platforms and Community Projects 
 
