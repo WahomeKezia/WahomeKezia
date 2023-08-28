@@ -19,13 +19,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope:A Computer Science Student
 
-- Currently exploring areas of Health Sciences and Climate with technology 🤖 🧬 🕵️
+- Presently, I am delving into the realms of Health Sciences and the Climate Field through the lens of technology 🤖 🧬 🕵️.
 
-- :seedling: Exploring Open Source platforms and Community Projects 
+- :seedling: GDSC Lead ,exploring Open Source platforms and Community Projects 
 
 - :zap: In my free time, I keep up with the latest technology updates #Blockchain #AI #ML 
 
-<!-- - :saxophone: Animal Farm is one of my favorite books and I play a sax  -->
+- :saxophone: Bad Blood by John Carreyrou is one of my favorite books and I play a sax  
 
 
 - :mailbox:How to reach me:  <a href="https://www.linkedin.com/in/kezia-wahome-531669243/">
