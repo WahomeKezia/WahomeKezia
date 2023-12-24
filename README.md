@@ -25,7 +25,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I keep up with the latest technology updates #Blockchain #AI #ML 
 
--  📖 I love Classic Literature and I play alto sax :saxophone:
+-  📖 I love classic literature and play alto sax :saxophone:
 
 
 - :mailbox:How to reach me:  <a href="https://www.linkedin.com/in/kezia-wahome-531669243/">
