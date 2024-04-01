@@ -17,9 +17,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope:A Computer Science Student
 
-- Presently, I am delving into the realms of Health Sciences and the Climate Field through the lens of technology 🤖 🧬 🕵️.
+- Curious about Computational biology 🤖 🧬 🕵️.
 
-- :seedling: GDSC Lead ,exploring Open Source platforms and Community Projects 
+- :seedling: A Google Developers Student Club Lead, exploring Open Source platforms and Community Projects 
 
 - :zap: In my free time, I keep up with the latest technology updates #Blockchain #AI #ML 
 
