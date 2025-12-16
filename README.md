@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/WahomeKezia/Assets/blob/main/keziaWangeci.PNG" alt="Kezia In Leadership" width=350px height=465px/>
+<!-- <img align="right" src="https://github.com/WahomeKezia/Assets/blob/main/keziaWangeci.PNG" alt="Kezia In Leadership" width=350px height=465px/>
 
 <h1>
   Hii there
@@ -23,7 +23,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I keep up with the latest technology updates #Blockchain #AI #ML 
 
--  📖 I love classic literature and play alto sax :saxophone:
+-  📖 I love classic literature and play alto sax :saxophone: -->
 
 
 - :mailbox:How to reach me:  <a href="https://www.linkedin.com/in/kezia-wahome-531669243/">
