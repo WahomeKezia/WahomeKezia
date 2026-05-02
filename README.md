@@ -40,3 +40,68 @@ Visit: kezia.web
 
 --- -->
 # Let's Code
+
+<h1 align="center">Hi, folks! 👋</h1>
+
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+        I'm Kezia Wangeci Wahome.<br>
+        Full Stack Developer || Software Engineer || Machine Learning || AWS Cloud<br>
+        🪴 Kaizen
+    </i>
+</p>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/kezia-wahome/">Connect with me on LinkedIn!</a>
+</p>
+
+---
+
+### Programming Languages
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/WahomeKezia)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/WahomeKezia)
+[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/WahomeKezia)
+[![MATLAB](https://img.shields.io/badge/MATLAB-black?style=for-the-badge&logo=mathworks)](https://github.com/WahomeKezia)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/WahomeKezia)
+
+### Machine Learning & Data Science
+[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/WahomeKezia)
+[![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://github.com/WahomeKezia)
+[![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/WahomeKezia)
+[![Jupyter](https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=jupyter)](https://github.com/WahomeKezia)
+
+### Web & Application Development
+[![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)](https://github.com/WahomeKezia)
+[![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)](https://github.com/WahomeKezia)
+[![ReactJS](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/WahomeKezia)
+[![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/WahomeKezia)
+[![EXPRESS](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/WahomeKezia)
+[![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/WahomeKezia)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/WahomeKezia)
+[![GIT](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git)](https://github.com/WahomeKezia)
+
+### Database Management
+![MySQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL)
+![MongoDB](https://img.shields.io/badge/mongoDB-black?style=for-the-badge&logo=mongodb)
+
+### Cloud & Infrastructure
+[![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws)](https://github.com/WahomeKezia)
+[![Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=microsoft-azure)](https://github.com/WahomeKezia)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)](https://github.com/WahomeKezia)
+
+---
+
+<br>
+<p align="left">
+  <a href="https://github.com/WahomeKezia">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WahomeKezia&theme=transparent" />
+  </a>
+  <a href="https://github.com/WahomeKezia">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahomeKezia&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/WahomeKezia">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WahomeKezia&theme=transparent" />
+  </a>
+</p>
