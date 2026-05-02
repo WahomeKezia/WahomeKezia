@@ -48,7 +48,6 @@ Visit: kezia.web
     <i>
         I'm Kezia Wangeci Wahome.<br>
         Full Stack Developer || Software Engineer || Machine Learning || AWS Cloud<br>
-       
     </i>
 </p>
 
