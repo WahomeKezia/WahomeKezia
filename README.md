@@ -55,6 +55,8 @@ Visit: kezia.web
     <a href="https://www.linkedin.com/in/kezia-wahome/">Connect with me on LinkedIn!</a>
 </p>
 
+<h1 align="center">Skills</h1>
+
 ### Programming Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/WahomeKezia)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/WahomeKezia)
@@ -101,7 +103,7 @@ Visit: kezia.web
 [![Google Cloud](https://img.shields.io/badge/GCP-black?style=for-the-badge&logo=google-cloud)](https://github.com/WahomeKezia)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)](https://github.com/WahomeKezia)
 
----
+<h1 align="center"></h1>
 
 <br>
 <p align="left">
