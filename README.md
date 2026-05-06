@@ -55,7 +55,7 @@ Visit: kezia.web
     <a href="https://www.linkedin.com/in/kezia-wahome/">Connect with me on LinkedIn!</a>
 </p>
 
-<h1 align="center">Skills</h1>
+<h1 align="center">Stack I work with 📚</h1>
 
 ### Programming Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/WahomeKezia)
