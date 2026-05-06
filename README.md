@@ -103,6 +103,9 @@ Visit: kezia.web
 [![Google Cloud](https://img.shields.io/badge/GCP-black?style=for-the-badge&logo=google-cloud)](https://github.com/WahomeKezia)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)](https://github.com/WahomeKezia)
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+<!--
 <h1 align="center"></h1>
 
 <br>
@@ -116,4 +119,4 @@ Visit: kezia.web
   <a href="https://github.com/WahomeKezia">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WahomeKezia&theme=transparent" />
   </a>
-</p>
+</p> 
