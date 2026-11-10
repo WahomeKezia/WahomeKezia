@@ -51,9 +51,6 @@ Visit: kezia.web
     </i>
 </p>
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/kezia-wahome/">Connect with me on LinkedIn!</a>
-</p>
 
 <!-- <h1 align="center">Stack I work with 📚</h1>
 
@@ -104,6 +101,10 @@ Visit: kezia.web
 [![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)](https://github.com/WahomeKezia) -->
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect!</b> 😊</em>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/kezia-wahome/">Connect with me on LinkedIn!</a>
+</p>
 
 <!--
 <h1 align="center"></h1>
