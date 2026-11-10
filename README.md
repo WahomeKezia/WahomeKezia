@@ -41,7 +41,7 @@ Visit: kezia.web
 --- -->
 
 
-<h1 align="center">Hi, folks! 👋</h1>
+<!-- <h1 align="center">Hi, folks! 👋</h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
@@ -101,7 +101,7 @@ Visit: kezia.web
 [![OpenSearch](https://img.shields.io/badge/OpenSearch-black?style=for-the-badge&logo=opensearch)](https://github.com/WahomeKezia)
 [![Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=microsoft-azure)](https://github.com/WahomeKezia)
 [![Google Cloud](https://img.shields.io/badge/GCP-black?style=for-the-badge&logo=google-cloud)](https://github.com/WahomeKezia)
-[![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)](https://github.com/WahomeKezia)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)](https://github.com/WahomeKezia) -->
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect!</b> 😊</em>
 
